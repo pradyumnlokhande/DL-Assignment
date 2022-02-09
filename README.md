@@ -5,6 +5,4 @@ In these repository hand's on the various datase with various DEEP-LEARNING algo
 in these folder i've apply Multi Layer Percepton Classification algorithm on wine dataset
 
 ## 2. Assignment2 
-in these folder i've done 1.implement mean square error using numpy.
-                          
-                          2.without using numpy
+in these folder I implement mean square error(MSE) using numpy and without using numpy
